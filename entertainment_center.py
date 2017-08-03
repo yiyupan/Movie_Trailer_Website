@@ -1,6 +1,8 @@
 import media
 import fresh_tomatoes
 
+***This file records relevant information for each movie on website.***
+***It also calls functions in fresh_tomatoes.py file to open movies page***
 
 interstellar = media.Movie("Interstellar",
                            "Explorers travel to ensure humanity's survival.",
