@@ -9,7 +9,7 @@ Download all three python files onto your computer:
 
 ## Application
 In order to run this application, there are several steps to follow below:
-1. Click and open `media.py`, and run it.
+1. Click and open `entertainment_center.py`, and run it.
 2. A website will be opened for you automatically.
 3. Choose a movie as you like and click its poster.
 4. Enjoy your movie trailer!
